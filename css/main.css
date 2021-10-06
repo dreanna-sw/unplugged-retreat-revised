@@ -233,6 +233,8 @@ footer .copyright {
 /*-------------------Mobile Styles-Homepage----------------------*/
 
 .hero-area {
+  background: url('../img/hero-image.jpg') center no-repeat #333;
+  background-size: cover;
   display: flex;
   justify-content: center;
   flex-flow: row wrap;
